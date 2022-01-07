@@ -5,7 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: lightskyblue;
+  background-color: rgb(139, 195, 74);
+  color: darkmagenta;
+  background-image: url('./images/ReminderImage.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 600px;
+  height: 110vh;
 }
 
 code {
@@ -13,3 +19,12 @@ code {
     monospace;
 }
 
+nav {
+  font-size: 1.5em;
+  color: darkred;
+  justify-content: space-around;
+}
+
+.Sample {
+color:darkblue;
+}
